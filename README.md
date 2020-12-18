@@ -5,12 +5,12 @@ resources have been moved to non-default resources.
 
 
 ## Usage
-
+```
 terraform plan
 terraform apply
 cd <region>
 terraform destroy
-
+```
 
 ## Requirements
 
